@@ -1,0 +1,15 @@
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.AssemblyInfoInputs.cache
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.AssemblyInfo.cs
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.csproj.CoreCompileInputs.cache
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.sourcelink.json
+C:\workplace\programming_exercises\Ex06\Ex06\bin\Debug\net8.0\Ex06.exe
+C:\workplace\programming_exercises\Ex06\Ex06\bin\Debug\net8.0\Ex06.deps.json
+C:\workplace\programming_exercises\Ex06\Ex06\bin\Debug\net8.0\Ex06.runtimeconfig.json
+C:\workplace\programming_exercises\Ex06\Ex06\bin\Debug\net8.0\Ex06.dll
+C:\workplace\programming_exercises\Ex06\Ex06\bin\Debug\net8.0\Ex06.pdb
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.dll
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\refint\Ex06.dll
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.pdb
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\Ex06.genruntimeconfig.cache
+C:\workplace\programming_exercises\Ex06\Ex06\obj\Debug\net8.0\ref\Ex06.dll
