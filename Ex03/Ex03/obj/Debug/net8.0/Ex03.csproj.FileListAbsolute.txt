@@ -1,0 +1,15 @@
+C:\workplace\programming_exercises\Ex03\Ex03\bin\Debug\net8.0\Ex03.exe
+C:\workplace\programming_exercises\Ex03\Ex03\bin\Debug\net8.0\Ex03.deps.json
+C:\workplace\programming_exercises\Ex03\Ex03\bin\Debug\net8.0\Ex03.runtimeconfig.json
+C:\workplace\programming_exercises\Ex03\Ex03\bin\Debug\net8.0\Ex03.dll
+C:\workplace\programming_exercises\Ex03\Ex03\bin\Debug\net8.0\Ex03.pdb
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfoInputs.cache
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.AssemblyInfo.cs
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.csproj.CoreCompileInputs.cache
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.sourcelink.json
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.dll
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\refint\Ex03.dll
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.pdb
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\Ex03.genruntimeconfig.cache
+C:\workplace\programming_exercises\Ex03\Ex03\obj\Debug\net8.0\ref\Ex03.dll
