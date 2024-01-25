@@ -1,0 +1,15 @@
+C:\workplace\programming_exercises\Ex11\Ex11\bin\Debug\net8.0\Ex11.exe
+C:\workplace\programming_exercises\Ex11\Ex11\bin\Debug\net8.0\Ex11.deps.json
+C:\workplace\programming_exercises\Ex11\Ex11\bin\Debug\net8.0\Ex11.runtimeconfig.json
+C:\workplace\programming_exercises\Ex11\Ex11\bin\Debug\net8.0\Ex11.dll
+C:\workplace\programming_exercises\Ex11\Ex11\bin\Debug\net8.0\Ex11.pdb
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.AssemblyInfoInputs.cache
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.AssemblyInfo.cs
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.csproj.CoreCompileInputs.cache
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.sourcelink.json
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.dll
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\refint\Ex11.dll
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.pdb
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\Ex11.genruntimeconfig.cache
+C:\workplace\programming_exercises\Ex11\Ex11\obj\Debug\net8.0\ref\Ex11.dll
