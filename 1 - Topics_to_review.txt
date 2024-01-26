@@ -1,1 +1,7 @@
 Topics to review: 
+- Enums (Refazer exercício de fixação doc09 pg 13)
+Fazer até onde sabe, rever anotações, rever as aulas, reler código, ver uma explicação sobre enums (youtube) e tentar de novo
+
+- Classes Abstratas (Rever conteúdo PDF e fazer o exercício modelo e o exercício proposto)
+
+- Arquivos - Rever o módulo, buscar novos conteúdos na internet e fazer exercícios sobre o tema quando possível

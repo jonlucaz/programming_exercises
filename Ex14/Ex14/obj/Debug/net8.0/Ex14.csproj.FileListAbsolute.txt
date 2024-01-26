@@ -1,0 +1,15 @@
+C:\workplace\programming_exercises\Ex14\Ex14\bin\Debug\net8.0\Ex14.exe
+C:\workplace\programming_exercises\Ex14\Ex14\bin\Debug\net8.0\Ex14.deps.json
+C:\workplace\programming_exercises\Ex14\Ex14\bin\Debug\net8.0\Ex14.runtimeconfig.json
+C:\workplace\programming_exercises\Ex14\Ex14\bin\Debug\net8.0\Ex14.dll
+C:\workplace\programming_exercises\Ex14\Ex14\bin\Debug\net8.0\Ex14.pdb
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.AssemblyInfoInputs.cache
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.AssemblyInfo.cs
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.csproj.CoreCompileInputs.cache
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.sourcelink.json
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.dll
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\refint\Ex14.dll
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.pdb
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\Ex14.genruntimeconfig.cache
+C:\workplace\programming_exercises\Ex14\Ex14\obj\Debug\net8.0\ref\Ex14.dll

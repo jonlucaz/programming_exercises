@@ -1,0 +1,15 @@
+C:\workplace\programming_exercises\Ex18\Ex18\bin\Debug\net8.0\Ex18.exe
+C:\workplace\programming_exercises\Ex18\Ex18\bin\Debug\net8.0\Ex18.deps.json
+C:\workplace\programming_exercises\Ex18\Ex18\bin\Debug\net8.0\Ex18.runtimeconfig.json
+C:\workplace\programming_exercises\Ex18\Ex18\bin\Debug\net8.0\Ex18.dll
+C:\workplace\programming_exercises\Ex18\Ex18\bin\Debug\net8.0\Ex18.pdb
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.AssemblyInfoInputs.cache
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.AssemblyInfo.cs
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.csproj.CoreCompileInputs.cache
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.sourcelink.json
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.dll
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\refint\Ex18.dll
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.pdb
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\Ex18.genruntimeconfig.cache
+C:\workplace\programming_exercises\Ex18\Ex18\obj\Debug\net8.0\ref\Ex18.dll
