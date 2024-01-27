@@ -4,4 +4,8 @@ Fazer até onde sabe, rever anotações, rever as aulas, reler código, ver uma 
 
 - Classes Abstratas (Rever conteúdo PDF e fazer o exercício modelo e o exercício proposto)
 
-- Arquivos - Rever o módulo, buscar novos conteúdos na internet e fazer exercícios sobre o tema quando possível
+- Arquivos - Rever o módulo, buscar novos conteúdos na internet e fazer exercícios (do curso e pesquisar exercícios) sobre o tema quando possível
+
+- Interfaces - Rever o módulo, buscar novos conteúdos na internet e fazer exercícios (do curso e pesquisar exercícios) sobre o tema quando possível
+
+- Generics, Set, Dictionary (S15) - Rever o módulo, buscar novos conteúdos na internet e fazer exercícios (do curso e pesquisar exercícios) sobre o tema quando possível
